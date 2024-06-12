@@ -21,7 +21,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 const Ancloas = {
     pronouns: "He" | "Him",
     code: ["SQL", "Python", "C++", "JavaScript", "React"],
-    askMeAbout: ["web dev", "Data Science", "Data Engineering", "Architecture", "Backend" , "Problem Solving"],
+    askMeAbout: ["web dev", "Data Science", "Data Engineering", "Architecture", "Backend", "Problem-Solving"],
     technologies: {
         backEnd: {
             Python: ["Django", "Flask"],
@@ -29,6 +29,6 @@ const Ancloas = {
         devOps: ["Azure", "Docker🐳"],
         databases: ["mongo", "MySql", "sqlite", "SQLServer", "Oracle", "PostGres"],
     },
-    currentFocus: "Building a Everyday scheduler app that helps us manage a person's life",
+    currentFocus: "Building an Everyday scheduler app that helps us manage a person's life",
 };
 ```
