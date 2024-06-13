@@ -6,9 +6,16 @@
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/ancloas)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://bubbleofthoughts.com/)](https://bubbleofthoughts.com/)
 
-### 📫 Like to meet me?
+### Connect One-on-One for a Fun and Insightful Chat! 🚀
+Are you passionate about programming, eager to learn new tech skills, or simply want to chat about career paths in any field? Let’s connect! Schedule a one-on-one meeting with me to:
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+<ul>
+  <li> Dive into your favorite coding languages or projects 🖥️ </li>
+<li>Explore new learning opportunities and tech trends 📚</li>
+<li>Discuss career journeys and share insights 🚀</li>
+</ul>
+
+  Just schedule a one-on-one meeting and we can talk about anything from your favorite programming language to your favorite movie. 
 
 <a href="https://calendly.com/anugrahgupta-52/30min" target="_blank"  rel="noopener noreferrer">
   <img src="https://github.com/ancloas/ancloas/assets/30951423/03600ffc-9ff0-4c56-851d-bc4325bc133c" alt="meet_link" width="498">
